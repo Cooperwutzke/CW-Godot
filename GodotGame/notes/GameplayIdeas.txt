@@ -1,0 +1,3 @@
+
+Eventually this file will contain a lot more information about gameplay
+mechanics.
